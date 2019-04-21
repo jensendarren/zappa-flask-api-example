@@ -1,0 +1,2 @@
+FLASK_APP=apiexample.py
+FLASK_ENV=development

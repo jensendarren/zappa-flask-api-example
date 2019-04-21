@@ -1,0 +1,13 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "aws_region": "ap-southeast-1",
+        "profile_name": "rotati",
+        "project_name": "apiexample",
+        "runtime": "python3.6",
+        "s3_bucket": "zappa-7ugptzr7z",
+        "aws_environment_variables": {
+            "MESSAGE": "hello from message set in Lambda via Zappa CONFIG!"
+        }
+    }
+}

@@ -1,0 +1,7 @@
+# Editor
+.vscode
+
+# App
+__pycache__
+venv
+app.db
